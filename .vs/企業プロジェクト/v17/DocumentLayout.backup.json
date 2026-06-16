@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GameDev\\Glitch-Protocol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA33BDDF-F69C-4502-AE89-1093B08F52DD}|..\\..\\\u4F5C\u54C1\\GlitchProtocol\\\u30B5\u30F3\u30D7\u30EB.vcxproj|E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Title.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA33BDDF-F69C-4502-AE89-1093B08F52DD}|..\\..\\\u4F5C\u54C1\\GlitchProtocol\\\u30B5\u30F3\u30D7\u30EB.vcxproj|E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA33BDDF-F69C-4502-AE89-1093B08F52DD}|..\\..\\\u4F5C\u54C1\\GlitchProtocol\\\u30B5\u30F3\u30D7\u30EB.vcxproj|E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Clear.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sound.cpp",
+              "DocumentMoniker": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Sound.cpp",
+              "RelativeDocumentMoniker": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Sound.cpp",
+              "ToolTip": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Sound.cpp*",
+              "RelativeToolTip": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Sound.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-16T06:16:05.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Title.cpp",
+              "DocumentMoniker": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Title.cpp",
+              "RelativeDocumentMoniker": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Title.cpp",
+              "ToolTip": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Title.cpp",
+              "RelativeToolTip": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Title.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-16T06:12:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clear.cpp",
+              "DocumentMoniker": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Clear.cpp",
+              "RelativeDocumentMoniker": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Clear.cpp",
+              "ToolTip": "E:\\\u4F5C\u54C1\\GlitchProtocol\\program\\Clear.cpp",
+              "RelativeToolTip": "..\\..\\\u4F5C\u54C1\\GlitchProtocol\\program\\Clear.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-16T06:12:17.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
